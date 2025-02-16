@@ -10,8 +10,8 @@
 
 ## 📌 Featured Projects  
 🔹 [Employee Attrition Prediction](https://github.com/balinenianuhya/employee-attrition-prediction)  
-🔹 [Chronic Diseases Prediction](https://github.com/balinenianuhya/chronic-diseases)
-🔹 [Mall Customer Segmentation](https://github.com/balinenianuhya/mall-customer)
+🔹 [Chronic Diseases Prediction](https://github.com/balinenianuhya/chronic-diseases-prediction)
+🔹 [Mall Customer Segmentation](https://github.com/balinenianuhya/mall-customer-segmentation)
 
 ## 📫 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/anuhya-balineni-870516208/) | 📧 balinenianuhya@gmail.com  
