@@ -9,7 +9,9 @@
 - 🛠️ Git, GitHub, and Cloud Technologies  
 
 ## 📌 Featured Projects  
-🔹 [Employee Attrition Prediction](https://github.com/your-username/employee-attrition)   
+🔹 [Employee Attrition Prediction](https://github.com/balinenianuhya/employee-attrition)  
+🔹 [Chronic-diseases-prediction](https://github.com/balinenianuhya/chronic-diseases)
+🔹 [House-price-prediction](https://github.com/balinenianuhya/house-price)
 
 ## 📫 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/anuhya-balineni-870516208/) | 📧 balinenianuhya@gmail.com  
