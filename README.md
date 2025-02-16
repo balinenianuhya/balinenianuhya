@@ -11,7 +11,7 @@
 ## 📌 Featured Projects  
 🔹 [Employee Attrition Prediction](https://github.com/balinenianuhya/employee-attrition)  
 🔹 [Chronic-diseases-prediction](https://github.com/balinenianuhya/chronic-diseases)
-🔹 [House-price-prediction](https://github.com/balinenianuhya/house-price)
+🔹 [Mall_customer_segmentation](https://github.com/balinenianuhya/mall-customer)
 
 ## 📫 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/anuhya-balineni-870516208/) | 📧 balinenianuhya@gmail.com  
