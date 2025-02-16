@@ -9,7 +9,7 @@
 - 🛠️ Git, GitHub, and Cloud Technologies  
 
 ## 📌 Featured Projects  
-🔹 [Employee Attrition Prediction](https://github.com/balinenianuhya/employee-attrition)  
+🔹 [Employee Attrition Prediction](https://github.com/balinenianuhya/employee-attrition-prediction)  
 🔹 [Chronic Diseases Prediction](https://github.com/balinenianuhya/chronic-diseases)
 🔹 [Mall Customer Segmentation](https://github.com/balinenianuhya/mall-customer)
 
